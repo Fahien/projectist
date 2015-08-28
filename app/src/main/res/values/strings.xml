@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Projectist</string>
+    <string name="project_name_hint">Enter a name for the project</string>
+    <string name="project_name_label">Name</string>
+    <string name="project_details_label">Details</string>
+    <string name="project_finished_label">Finished?</string>
+    <string name="projects_title">Projects</string>
+    <string name="date_picker_title">Date of project:</string>
+    <string name="project_coworker_text">Choose coworker</string>
+    <string name="project_report_text">Send project report</string>
+
+    <string name="new_project">New project</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle">Well begun is half done</string>
+    <string name="delete_project">Delete</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="no_projects">No projects</string>
+    <string name="take">Take!</string>
+
+    <string name="project_report">The project %1$s was started on %2$s. %3$s, and %4$s</string>
+    <string name="project_report_finished">The project is finished</string>
+    <string name="project_report_unfinished">The project is unfinished</string>
+    <string name="project_report_coworker">the coworker is %s.</string>
+    <string name="project_report_subject">Projectist Project Report</string>
+    <string name="send_report">Send project report via</string>
+    <string name="project_report_no_coworker">There is no coworker.</string>
+</resources>
